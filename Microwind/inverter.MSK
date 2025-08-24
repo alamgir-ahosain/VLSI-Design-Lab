@@ -1,0 +1,30 @@
+VERSION 7/21/2025 11:19:05 AM
+FIG #E:\Semester\4.1\VLSI Lab\Microwind-strick diagram\inverter.MSK
+BB(37,20,61,52)
+SIMU #1.00
+REC(37,36,24,16,NW)
+REC(50,42,5,4,DP)
+REC(43,42,5,4,DP)
+REC(50,24,5,4,DN)
+REC(43,24,5,4,DN)
+REC(52,43,2,2,CO)
+REC(44,25,2,2,CO)
+REC(52,25,2,2,CO)
+REC(44,43,2,2,CO)
+REC(48,21,2,28,PO)
+REC(51,24,4,22,ME)
+REC(43,20,4,8,ME)
+REC(43,42,4,8,ME)
+REC(48,42,2,4,DP)
+REC(48,24,2,4,DN)
+TITLE 45 48  #Vdd
+$1 1000 0 
+TITLE 39 48  #Vdd
+$1 1000 0 
+TITLE 45 22  #Vss
+$0 1000 0 
+TITLE 53 32  #output
+$v 1000 0 
+TITLE 49 34  #A
+$c 1000 0 0.0900 0.1000 0.1900 0.2000 
+FFIG E:\Semester\4.1\VLSI Lab\Microwind-strick diagram\inverter.MSK
