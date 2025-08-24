@@ -1,0 +1,1 @@
+ Majority Function: Y=1 if at least 3 of 4 inputs are 1 .

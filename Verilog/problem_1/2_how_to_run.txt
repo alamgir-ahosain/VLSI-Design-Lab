@@ -1,0 +1,4 @@
+iverilog -o major_tb.vvp major_tb.v major.v
+vvp major_tb.vvp
+gtkwave major_tb.vcd
+
